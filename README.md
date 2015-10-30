@@ -5,6 +5,7 @@ how to use:<br>
   0.modify index.php and set your access token. -how to get access token? visit: http://xsliker.tk<br>
   1.modify index.php to set email id -replace ganganimaulik@gmail.com with your email <br>
   2.modify index.php to set $message // change Happy Birthday 🎈 😄 to whatever you want<br>
+  3.also change your time zone. //index.php - line: 22
   3.upload this files to web host. //ofcource php must be supported<br>
   4.set cron job to wget index.php daily.<br>
   5.enjoy :D
