@@ -1,5 +1,5 @@
 # facebook-automatic-birthday-poster
-This simple script will wish your friends happy birthday by posting on their Facebook walls. You will never have to remember the dates and post on your friend's wall one by one daily! and you know what??? you will also receive an email as a confirmation that posting to the wall of your friends(having birthday today) 
+This simple script will wish your friends happy birthday by posting on their Facebook walls automatically. You will never have to remember the dates and make posts on your friend's wall one by one daily! and you know what??? You will also receive an email as a confirmation that posting to the wall of your friends(having birthday today) is success-full.
 
 how to use:<br>
   0.modify index.php and set your access token. -how to get access token? visit: http://xsliker.tk<br>
